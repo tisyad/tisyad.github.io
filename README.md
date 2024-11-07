@@ -10,3 +10,5 @@ Welcome to my page! I’m Tisya, a Bachelor’s student at Imperial College Lond
 At Imperial, I’m developing a foundation in both lab-based and computational methods, exploring how we can combine molecular biology with data science to tackle pressing challenges in cancer research. I’m especially drawn to the potential of personalized medicine and using big data to better understand disease mechanisms.<br>
 
 Outside of academics, I’m an advocate for sustainability and enjoy spending time in nature, often taking long walks to recharge. I'm always open to connecting with others who share similar interests in science and sustainability—feel free to reach out!<br>
+
+[📧 Email me](mailto:tisyad@gmail.com)
