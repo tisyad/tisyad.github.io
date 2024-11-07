@@ -1,7 +1,9 @@
 # Tisya Dewan<br>
 Biochemistry at Imperial College London <br>
 She/her <br>
-![Poster](https://github.com/user-attachments/assets/52af50f5-9019-4f69-85f9-66498686da3d)
+<img src="https://github.com/user-attachments/assets/52af50f5-9019-4f69-85f9-66498686da3d" alt="Poster" width="400" height="auto">
+
+
 
 Welcome to my page! I’m Tisya, a Bachelor’s student at Imperial College London with a keen interest in cancer biology, genetics, and epigenetics. My passion lies in understanding how genetic and epigenetic changes drive cancer, and I enjoy using bioinformatics to explore complex biological data and uncover patterns that could inform new therapeutic approaches.<br>
 
