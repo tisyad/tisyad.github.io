@@ -12,4 +12,5 @@ At Imperial, I developed a foundation in both lab-based and computational method
 Outside of academics, I’m an advocate for sustainability and enjoy spending time in nature, often taking long walks to recharge. I'm always open to connecting with others who share similar interests in science and sustainability—feel free to reach out!<br>
 
 [📧 Email me](mailto:tisyad@gmail.com) <br>
-[📄Download my CV](https://raw.githubusercontent.com/tisyad/tisyad.github.io/main/Tisya_Dewan_CV.pdf)
+[📄Download my CV](https://raw.githubusercontent.com/tisyad/tisyad.github.io/main/Tisya Dewan updated CV - Google Docs.pdf)
+
